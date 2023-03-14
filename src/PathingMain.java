@@ -24,7 +24,7 @@ public class PathingMain extends PApplet
    private static final int ROWS = 15;
    private static final int COLS = 20;
 
-   private static enum GridValues { BACKGROUND, OBSTACLE, GOAL};
+   private static enum GridValues { BACKGROUND, OBSTACLE, GOAL}
 
    private Point wPos;
    private Point goalPos;
